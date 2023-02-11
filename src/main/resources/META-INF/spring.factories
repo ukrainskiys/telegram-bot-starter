@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  xyz.ukrainskiys.telbotstarter.handlers.BotInitializer,\
+  xyz.ukrainskiys.telbotstarter.handlers.BotUpdateHandlerStorage,\
+  xyz.ukrainskiys.telbotstarter.handlers.TUpdateHandlerBeanPostProcessor
+
