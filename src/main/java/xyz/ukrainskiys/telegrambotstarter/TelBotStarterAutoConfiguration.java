@@ -1,4 +1,4 @@
-package xyz.ukrainskiys.telbotstarter;
+package xyz.ukrainskiys.telegrambotstarter;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
