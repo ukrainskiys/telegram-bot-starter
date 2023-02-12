@@ -5,5 +5,5 @@ import com.pengrad.telegrambot.request.BaseRequest;
 import org.jetbrains.annotations.NotNull;
 
 public interface THandler {
-    BaseRequest<?, ?> execute(@NotNull Update update, Long chatId);
+    BaseRequest<?, ?> handle(@NotNull Update update, Long chatId);
 }
